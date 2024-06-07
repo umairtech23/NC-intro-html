@@ -1,0 +1,26 @@
+* {
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    border: 5px solid red;
+  }
+  
+  img {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    border: 5px solid red;
+  }
+
+  header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  a {
+    font-size: 20px;
+  }
+
+  #id-colour {
+    color: purple;
+  }
